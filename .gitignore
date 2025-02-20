@@ -7,3 +7,5 @@
 
    # El programa establece un rango de números posibles y 
    elige aleatoriamente un número dentro de ese rango.
+
+   # Luego, el programa le pide al usuario que adivine el número
