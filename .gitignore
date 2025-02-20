@@ -1,3 +1,5 @@
 '''
    # Consisten en pedirle al usuario que adivine 
    un número elegido aleatoriamente por el programa.
+
+    # El objetivo es que el usuario (quien dara el input) adivine correctamente el número 
