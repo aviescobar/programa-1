@@ -13,3 +13,4 @@
    que el usuario ha ingresado. De esta manera, el usuario puede ajustar sus conjeturas para acercarse al número correcto.
 
    # El juego continúa hasta que el usuario adivine el número correcto,
+    momento en el que el programa le da una felicitación y le muestra 
