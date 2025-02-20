@@ -16,3 +16,5 @@
     momento en el que el programa le da una felicitación y le muestra 
     el número de intentos que le tomó adivinar el número.
 '''
+
+import random
