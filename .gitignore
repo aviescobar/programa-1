@@ -11,3 +11,5 @@
    # Luego, el programa le pide al usuario que adivine el número
    y le da una pista sobre si el número a adivinar es mayor o menor que el número
    que el usuario ha ingresado. De esta manera, el usuario puede ajustar sus conjeturas para acercarse al número correcto.
+
+   # El juego continúa hasta que el usuario adivine el número correcto,
