@@ -3,3 +3,4 @@
    un número elegido aleatoriamente por el programa.
 
     # El objetivo es que el usuario (quien dara el input) adivine correctamente el número 
+   (elegido aleatoriamente por el programa) en la menor cantidad de intentos posible.
