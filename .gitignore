@@ -6,3 +6,4 @@
    (elegido aleatoriamente por el programa) en la menor cantidad de intentos posible.
 
    # El programa establece un rango de números posibles y 
+   elige aleatoriamente un número dentro de ese rango.
